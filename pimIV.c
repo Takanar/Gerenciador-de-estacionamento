@@ -1,5 +1,5 @@
 /************************************************
-* ESTACIONAMENTO PIM LTDA						*
+* STACIONAMENTO PIM LTDA						*
 * SISTEMA:      ESTACIONAMENTO					*
 * PROGRAMA:     GERENCIADOR DE ESTACIONAMENTO	*
 * PROGRAMADORES: Fabio Tang;                    *
